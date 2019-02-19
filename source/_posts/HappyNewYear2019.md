@@ -10,7 +10,7 @@ It is remained of being kind people for good.
 ## Dog Year  
 Hurt Heart, Lost Lives.
 
-> Books save lives that do not hate anyone who sunk you down.
+> Books save lives that do not ~~hate~~ argue with anyone who sunk you down.
   
 
 ## Pig Year
