@@ -14,4 +14,4 @@ Hurt Heart, Lost Lives.
   
 
 ## Pig Year
-Reading more and knowing more, then achieve more. Knowleage changes my life but wisdow would light up the motiviation.
+Knowleage changes my life but wisdow would light up the motiviation.
