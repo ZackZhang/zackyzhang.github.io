@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Zack
+subtitle: Language is beauty that makes road map of a culture.
 description:
-author: John Doe
+author: Zack Cheung
 language:
 timezone:
 
@@ -77,4 +77,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  respository: git@github.com:ZackZhang/zackyzhang.github.io.git
+  branch: master
+  message:
